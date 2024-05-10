@@ -41,7 +41,7 @@ The bot uses the unique file ID assigned by Telegram to each file to detect dupl
     ```bash
     python bot.py
     ```
-
+5. or simply just copy the code to vs coder and install requirements i.e telethon , python-telegram-bot (2nd step above) and run the code .
 ## Usage
 
 1. Add the bot to your Telegram group or channel.
