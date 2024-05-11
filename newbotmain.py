@@ -1,9 +1,9 @@
 import pickle
 from telethon import TelegramClient, events
 
-api_id = '12269872'
-api_hash = '5bcb7a091fe42b554207b72c6f3beda1'
-bot_token = '6968017955:AAF40qCMjoXjTCaWmd_FoueZDXv85TNvnng'
+api_id = 'your_api_id'
+api_hash = 'your_api_hash'
+bot_token = 'your_bot_token'
 
 client = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
 
